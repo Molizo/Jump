@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1494828021 source:c:\users\mihneavisoiu\desktop\jump\example.c
+	"rlutil.h"
+	<stdlib.h>
+	<stdio.h>
+	"math.h"
+
+1494828021 c:\users\mihneavisoiu\desktop\jump\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1494829008 source:c:\users\mihneavisoiu\desktop\jump\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<fstream>
+	<stdlib.h>
+	<rlutil.h>
+
+1494828021 c:\users\mihneavisoiu\desktop\jump\\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1494828021 source:c:\users\mihneavisoiu\desktop\jump\test.cpp
+	"rlutil.h"
+	<algorithm>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+
